@@ -1,0 +1,5 @@
+group Client
+    FSharp.Core
+    Fable.Core
+    Fable.Browser.Dom
+    Thoth.Fetch

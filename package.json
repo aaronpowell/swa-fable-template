@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "dotnet fable watch src --sourceMaps --run vite",
+    "build": "dotnet fable src --sourceMaps --run vite build",
+    "serve": "vite serve"
+  },
+  "devDependencies": {
+    "vite": "^2.4.0"
+  },
+  "name": "swa-fable-starter",
+  "version": "1.0.0"
+}
